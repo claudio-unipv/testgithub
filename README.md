@@ -3,10 +3,10 @@
 Test environment to try the features of github.
 
 TODO:
-[ ] eclipse integration
-[ ] git/github tutorial
-[ ] setup the projects
-[ ] accounts
+- [ ] eclipse integration
+- [ ] git/github tutorial
+- [ ] setup the projects
+- [ ] accounts
 
 ## Other stuff?
 
